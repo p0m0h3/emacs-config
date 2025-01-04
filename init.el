@@ -16,9 +16,6 @@
    '("95b0bc7b8687101335ebbf770828b641f2befdcf6d3c192243a251ce72ab1692" default))
  '(package-selected-packages '(monokai-theme)))
 
-;; set theme
-(load-theme 'modus-vivendi t)
-
 ;; don't show the startup message
 (setq inhibit-startup-message t)
 
